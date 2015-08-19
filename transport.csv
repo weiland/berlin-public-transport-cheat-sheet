@@ -1,0 +1,6 @@
+from,to,reason,train,direction,position,hint
+Berlin Tempelhof S,Messe ICC,ZOB/ICC,S41,Ring,back,not very back + stairs
+U Mehringdamm,Stadtmitte,Potsdamer Platz,U6,Alt-Tegel,front,front (directly at  stairs of U2)
+U Mehringdamm,S Neukölln,S42 Ringbahn,U7,Rudow,back,nothing
+S Warschauer Str,Savignyplatz,Schwarzes Cafe,S5|S7|S75,Potsdam|Spandau|Westkreuz,Platform 4 front, almost front
+
