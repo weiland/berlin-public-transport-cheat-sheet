@@ -1,5 +1,7 @@
 # Berlin Public Transport Cheat Sheet
 
+**[`vbb-change-positions`](https://github.com/juliuste/vbb-change-positions#vbb-change-positions) is very similar and actively maintained.**
+
 Idea: You enter a train to go to a certain destination.
 
 CSV Structure:
